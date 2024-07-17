@@ -1,9 +1,6 @@
 # News-Article-Sentiments-Analysis-and-Visualization
 
 
-Certainly! Here's a README description for your GitHub repository based on the provided code:
-
----
 
 # News Sentiment Analysis with Word Clouds
 
