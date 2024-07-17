@@ -25,7 +25,7 @@ This Python script fetches top news headlines from India using the NewsAPI, perf
    pip install requests nltk textblob wordcloud matplotlib pandas seaborn
    ```
 
-2. Obtain a NewsAPI key from [NewsAPI](https://newsapi.org/) and replace `'b9b9147260b4494d87034abfd17aa25a'` with your API key in the script.
+2. Obtain a NewsAPI key from [NewsAPI](https://newsapi.org/) and replace `'yourapikey[News API]'` with your API key in the script.
 
 3. Run the script:
    ```bash
